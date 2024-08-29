@@ -1,0 +1,26 @@
+*{
+    background-color: hsl(182, 64%, 66%);
+    color: #6f7788;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    font-size: 1rem;
+    font-weight: 700;
+    font-family:Arial, Helvetica, sans-serif;
+    filter: drop-shadow(2px 2px 2px brown);
+    color: chocolate;
+}
+.banner{
+    background-image: url(https://occ-0-3215-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVhjtRicow3iAnqGyyQ3AJ7j_04bccR8-tjRovtPe3AT6dTHXH-s6avobfDp4_nS7HWBCFbiX9UuoU5dCOkJ30Xng79yly-8d-NNbeI5aTCRwWpS4JZUDQfdJEYrBIvcEug_.jpg?r=e90%22%20data-title-id=%2280100172%22);
+    background-size: cover;
+    background-position: center center;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    height: 800px;
+    
+}
+.posters{
+    display: flex;
+}
